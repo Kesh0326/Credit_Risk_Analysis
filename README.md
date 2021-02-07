@@ -48,6 +48,7 @@ Recall Score - 0.90
 
 ## Summary
 
+Based on the analysis and results of the 6 models above, the Easy Ensemble AdaBoost Classifier is the recommended model, with all other conditions remaining constant. This model generated the highest combination scores of Accuracy, Precision and Recall
 
 
 
